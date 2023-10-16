@@ -1,4 +1,4 @@
-algoritmo minicalculadora
+Algoritmo minicalculadora
   Definir num_a, num_b, num_res como Real
   Definir opcion como Entero
   
@@ -20,5 +20,5 @@ algoritmo minicalculadora
          Escribir "Esa operación no esta permitida"
      finsi
  finsi
-fin
+FinAlgoritmo
   
